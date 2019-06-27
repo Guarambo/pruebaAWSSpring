@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: santiago.montoya
+Build-Jdk: 12
+Implementation-Title: docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.microdocker
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/docker
+Created-By: Maven Integration for Eclipse
+
